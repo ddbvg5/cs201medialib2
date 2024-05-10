@@ -1,0 +1,35 @@
+ERROR LIST
+ERROR: M,Hidden Figures,9,Drama,126,2016,Jaraji P Henson,Octavia Spencer,Janelle Monae
+There was an invalid value entered for the rating
+ERROR: B,Fahrenheit 451,Ray Bradbury,Sci-Fi,256,1953,8
+There was an invalid value entered for the rating
+ERROR: M,So I Married an Axe Murderer,Thomas Schlamme,15,Comedy,93,1993,Mike Meyers,Nancy Travis
+There was an invalid value entered for the rating
+ERROR: B,Watchmen,Alan Moore,8,Sci-Fi,416,1987,ERROR
+Previous record has an invalid stoi argument error
+ERROR: S,Baba Yetu,Christopher Tin,10,Choir,203,2025,0
+There was an invalid value entered for the year
+ERROR: S,Blinding Lights,the Weeknd,10,9,INVALID,2020,1
+There was an invalid value entered for the length
+ERROR: S,Stayin' Alive,Bee Gees,10,Pop,419,1979,ERROR
+Previous record has an error in boolean value
+Unable to process command. The rating of: 15 is invalid
+Unable to process command. The rating of: -3 is invalid
+ERROR: N,M,Psych 2: Lassie Come Home,Steve Franks,16,Comedy,115,2020,James Roday,Dule Hill,Timothy Omundson
+There was an invalid value entered for the rating
+ERROR: N,S,Respect,Aretha Franklin,ERROR,R&B,281,1967,1
+There was an invalid value entered for the rating
+ERROR: N,S,Strawberry Fields Forever,Beatles,9,pop,ERROR,1967,0
+There was an invalid value entered for the length
+ERROR: N,B,The Brothers Hawthorne,Jennifer Lynn Barnes,9,Mystery,400,ERROR,0
+There was an invalid value entered for the year
+ERROR: N,B,Lessons in Chemistry,Bonnie Garmus,7,Humor,320,2026,0
+There was an invalid value entered for the year
+ERROR: Unable to process command. There was an invalid value entered for items: Lessons in Chemistry
+Unable to process command. The key name: Harrison Ford is not a key name in any media in your list
+Unable to process command. The rating of: R&B is invalid
+Unable to process command. The rating of: Rock is invalid
+Unable to process command. The rating of: Drama is invalid
+Unable to process command. The rating of: Adventure is invalid
+Unable to process command. The rating of: Error is invalid
+Unable to process command. The rating of: Error is invalid
